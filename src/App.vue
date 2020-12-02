@@ -1,7 +1,12 @@
+<!-- ^2_3^ App.vue组件 -->
+
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="(^2_3^ 2workroom3工作室) Welcome to Your Vue.js App"/>
+	<div>
+		<a href="./admin-login.html">后台登录</a>
+	</div>
   </div>
 </template>
 
